@@ -1,7 +1,7 @@
 ## About me
 
-I graduated from McGill in Joint Honours Mathematics and Computer Science in 2024.
+I'm currently self-teaching web programming and DevOps in preparation to start a career as a software developer.
 
-I'm looking to either get a tech job, start a tech company, or go to grad school.
+In April of 2025, I obtained an Oracle Certified Professional: Java SE 17 Developer certification.
 
-My favourite programming language is Haskell and the language I'm best at is Java. I'm also experienced in C and Python.
+I graduated from McGill with an Honours Mathematics and Computer Science degree in 2024.
